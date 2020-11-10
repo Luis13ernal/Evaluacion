@@ -1,0 +1,40 @@
+5. Comandos Linux
+
+
+
+5.1 Escribe las instrucciones para actualizar los archivos de una aplicacion web localizada en /var/www/michangarrito
+desde su proyecto localizado en /home/ubuntu/michangarrito. Los arhivos necesarios se encuentran en la carpeta dist dentro
+del proyecto:
+
+
+
+sudo su
+
+cd /home/ubuntu/michangarrito/dist
+
+cp -r -u dist /var/www/michangarrito
+
+
+
+
+5.2 Considera que estas en una terminal linux posicionado en ~/michangarrito y necesitas hacer una copia de seguridad en
+/home/ubuntu/backups anexando la fcha actual (AAAA-MM-DD) al nombre, por ejemplo:
+/home/ubuntu/backups/michangarrito_2020_02_02
+
+
+
+sudo su
+
+nano backups.sh
+
+
+#!/bin/bash
+
+fecha=$(date +%y_%m_%d)
+
+tar -cvf /home/ubuntu/backups/michangarrito_$fecha ~/michangarrito
+
+chmod 777 backups.sh
+
+./backups.sh
+

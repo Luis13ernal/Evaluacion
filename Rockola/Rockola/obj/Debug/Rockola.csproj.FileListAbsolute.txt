@@ -1,0 +1,17 @@
+c:\users\karel\source\repos\Rockola\Rockola\bin\Debug\Rockola.exe.config
+c:\users\karel\source\repos\Rockola\Rockola\bin\Debug\Rockola.exe
+c:\users\karel\source\repos\Rockola\Rockola\bin\Debug\Rockola.pdb
+c:\users\karel\source\repos\Rockola\Rockola\bin\Debug\Interop.WMPLib.dll
+c:\users\karel\source\repos\Rockola\Rockola\bin\Debug\AxInterop.WMPLib.dll
+c:\users\karel\source\repos\Rockola\Rockola\obj\Debug\Rockola.csprojAssemblyReference.cache
+c:\users\karel\source\repos\Rockola\Rockola\obj\Debug\Interop.WMPLib.dll
+c:\users\karel\source\repos\Rockola\Rockola\obj\Debug\AxInterop.WMPLib.dll
+c:\users\karel\source\repos\Rockola\Rockola\obj\Debug\Rockola.csproj.ResolveComReference.cache
+c:\users\karel\source\repos\Rockola\Rockola\obj\Debug\Rockola.Form1.resources
+c:\users\karel\source\repos\Rockola\Rockola\obj\Debug\Rockola.Properties.Resources.resources
+c:\users\karel\source\repos\Rockola\Rockola\obj\Debug\Rockola.csproj.GenerateResource.cache
+c:\users\karel\source\repos\Rockola\Rockola\obj\Debug\Rockola.csproj.CoreCompileInputs.cache
+c:\users\karel\source\repos\Rockola\Rockola\obj\Debug\Rockola.exe
+c:\users\karel\source\repos\Rockola\Rockola\obj\Debug\Rockola.pdb
+c:\users\karel\source\repos\Rockola\Rockola\bin\Debug\MACTrackBarLib.dll
+c:\users\karel\source\repos\Rockola\Rockola\obj\Debug\Rockola.csproj.CopyComplete
